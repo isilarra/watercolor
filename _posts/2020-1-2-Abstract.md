@@ -52,25 +52,25 @@ To add "sold" tag, insert this text immediately after the name of the painting:
 
 <div class="grid-container">
   <div class="grid-image">
-    <img src="{{site.baseurl}}/assets/img/posts/abstract/blueandgreen1.jpg">
+    <img src="{{site.url}}{{site.baseurl}}/assets/img/posts/abstract/blueandgreen1.jpg">
   </div>
   <div class="grid-image">
-    <img src="{{site.baseurl}}/assets/img/posts/abstract/blueandgreen2.jpg">
+    <img src="{{site.url}}{{site.baseurl}}/assets/img/posts/abstract/blueandgreen2.jpg">
   </div>
   <div class="grid-image">
-    <img src="{{site.baseurl}}/assets/img/posts/abstract/explosion.jpg">
+    <img src="{{site.url}}{{site.baseurl}}/assets/img/posts/abstract/explosion.jpg">
   </div>  
   <div class="grid-caption">Blue and green 1<span style="color:red;"> - sold</span><br>9x9"</div>
   <div class="grid-caption">Blue and green 2<br>9x9"</div>
   <div class="grid-caption">Explosion<br>9x17"</div>  
   <div class="grid-image">
-    <img src="{{site.baseurl}}/assets/img/posts/abstract/jardin.jpg">
+    <img src="{{site.url}}{{site.baseurl}}/assets/img/posts/abstract/jardin.jpg">
   </div>
   <div class="grid-image">
-    <img src="{{site.baseurl}}/assets/img/posts/abstract/redandblue1.jpg">
+    <img src="{{site.url}}{{site.baseurl}}/assets/img/posts/abstract/redandblue1.jpg">
   </div>
   <div class="grid-image">
-    <img src="{{site.baseurl}}/assets/img/posts/abstract/redandblue2.jpg">
+    <img src="{{site.url}}{{site.baseurl}}/assets/img/posts/abstract/redandblue2.jpg">
   </div>  
   <div class="grid-caption">Garden of Eden<span style="color:red;"> - sold</span><br>9x17"</div>
   <div class="grid-caption">Red and blue 1<br>9x9"</div>

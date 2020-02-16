@@ -57,31 +57,31 @@ To add "sold" tag, insert this text immediately after the name of the painting:
 
 <div class="grid-container">
   <div class="grid-image">
-    <img src="{{site.baseurl}}/assets/img/posts/animales/loica.jpg">
+    <img src="{{site.url}}{{site.baseurl}}/assets/img/posts/animales/loica.jpg">
   </div>
   <div class="grid-image">
-    <img src="{{site.baseurl}}/assets/img/posts/animales/martinpescador.jpg">
+    <img src="{{site.url}}{{site.baseurl}}/assets/img/posts/animales/martinpescador.jpg">
   </div>
   <div class="grid-image">
-    <img src="{{site.baseurl}}/assets/img/posts/animales/paj1.jpg">
+    <img src="{{site.url}}{{site.baseurl}}/assets/img/posts/animales/paj1.jpg">
   </div>  
   <div class="grid-caption">Loica<span style="color:red;"> - sold</span><br>9x9"</div>
   <div class="grid-caption">Kingfisher<span style="color:red;"> - sold</span><br>17x8"</div>
   <div class="grid-caption">Bird 1<span style="color:red;"> - sold</span><br>11x9"</div>  
   <div class="grid-image">
-    <img src="{{site.baseurl}}/assets/img/posts/animales/zorro.jpg">
+    <img src="{{site.url}}{{site.baseurl}}/assets/img/posts/animales/zorro.jpg">
   </div>
   <div class="grid-image">
-    <img src="{{site.baseurl}}/assets/img/posts/animales/paj3.jpg">
+    <img src="{{site.url}}{{site.baseurl}}/assets/img/posts/animales/paj3.jpg">
   </div>
   <div class="grid-image">
-    <img src="{{site.baseurl}}/assets/img/posts/animales/panda.jpg">
+    <img src="{{site.url}}{{site.baseurl}}/assets/img/posts/animales/panda.jpg">
   </div>  
   <div class="grid-caption">Fox<span style="color:red;"> - sold</span><br>9x9"</div>
   <div class="grid-caption">Bird 3<span style="color:red;"> - sold</span><br>11x9"</div>
   <div class="grid-caption">Panda<span style="color:red;"> - sold</span><br>9x9"</div>  
     <div class="grid-image">
-    <img src="{{site.baseurl}}/assets/img/posts/animales/picaflor.jpg">
+    <img src="{{site.url}}{{site.baseurl}}/assets/img/posts/animales/picaflor.jpg">
   </div>
   <div class="grid-image">
     <img src="">
