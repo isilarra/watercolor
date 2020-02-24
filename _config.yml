@@ -2,9 +2,11 @@
 title: Watercolors # your site title
 author: Isidora Larraín de Andraca # You :P
 description: > # Meta description of Homepage
-baseurl: Watercolors # the subpath of your site, e.g. /blog
-# url: "https://jordanjasuta.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-url: "http://jordanjasuta.github.io/"
+# baseurl: watercolor
+# url: "http://isilarra.github.io/"
+
+baseurl: 
+url: ""
 
 # SEO PLUGIN
 social:
