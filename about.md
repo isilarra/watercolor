@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-As an architec, observation is my main tool; as a (very) frequent traveler I have been lucky enough to discover and admire new places and cultures. My watercolors are an interprettion of diverse landscapes and people across dynamic movements and seasons. In my work you might discover a deep admiration for Toulouse-Lautrec, Degas, Schiele, Klimt, and Monet. Nevertheless, expressions of daily life are the real muse of these cheerful paintings that allow us to nourish our inner kid. 
+As an architec, observation is my main tool; as a (very) frequent traveler I have been lucky enough to discover and admire new places and cultures. My watercolors are an interpretation of diverse landscapes and people across dynamic movements and seasons. In my work you might discover a deep admiration for Toulouse-Lautrec, Degas, Schiele, Klimt, and Monet. Nevertheless, expressions of my daily life are the real muse of these cheerful paintings that allow us to nourish our inner kid. 
 
 <p style="text-align: center;">
 &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  &middot;  </p>
