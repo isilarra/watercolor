@@ -22,7 +22,7 @@ summary: " "
   padding: 10px;
 }
 .grid-image {
-  background-color: blue;
+  background-color: white;
   border: 1px solid white;
   padding: 0px;
   font-size: 30px;
